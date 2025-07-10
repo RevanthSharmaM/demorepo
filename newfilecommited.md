@@ -1,2 +1,2 @@
-new file newfilecommited in github.
-it is created in github to demonstrate merge conflict.
+new file newfilecommited in intalij.
+it is created in intalij to demonstrate merge conflict.
