@@ -1,3 +1,3 @@
-new file newfilecommited in intali j
+new file newfilecommited in intalij to see mergeconflict
 
 in intali j ide local file 
