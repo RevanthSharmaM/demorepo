@@ -1,4 +1,4 @@
 file01
 in github.
 
-in intali j ide local file
+in git hub remote repo.
